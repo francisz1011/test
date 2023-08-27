@@ -1,5 +1,0 @@
-{{#user}}
-Name: Francis Fernandes
-Skills: HTML, CSS, JS, React.js
-Email: francisfernandez1011@gmail.com
-{{/user}}
